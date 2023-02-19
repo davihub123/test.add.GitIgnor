@@ -1,2 +1,4 @@
-node_modules/,
-.env, /artifacts/, z*
+node_modules/
+z*
+.env 
+artifacts/ 
